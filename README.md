@@ -4,7 +4,7 @@ This is a full-stack AI-powered image generation application built using the MER
 **[Try it here..](https://ai-imager1.com/)**
 
 ## Demo
-https://github.com/alexamankwah2/ai-imager-react/assets/128336742/88aa8cca-375b-46a8-8152-7e1624f3f513
+https://github.com/alexamankwah2/ai-imager-react/assets/128336742/ebd11476-864c-4994-ab39-84782a76ff62
 
 
 ## Features
