@@ -1,8 +1,12 @@
 # ai-imager-react
 ![screencapture-ai-imager1-2023-08-03-21_49_40](https://github.com/alexamankwah2/ai-imager-react/assets/128336742/8e6d569e-4423-47fc-8c70-5cb712385622)
 This is a full-stack AI-powered image generation application built using the MERN (MongoDB, Express, React, Node.js) stack. The frontend is developed with React and Tailwind CSS, while the backend utilizes Node.js with Express for server-side logic and MongoDB for data storage. The application leverages OpenAI's DALL-E model for generating creative and unique images based on user input.
+**[Try it here..](https://ai-imager1.com/)**
+
 ## Demo
 https://github.com/alexamankwah2/ai-imager-react/assets/128336742/88aa8cca-375b-46a8-8152-7e1624f3f513
+
+
 ## Features
 - Interactive and user-friendly web interface.
 - Seamless integration with OpenAI's DALL-E for image generation.
